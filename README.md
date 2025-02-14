@@ -4,3 +4,5 @@ The objective of this project is to understand how the U-Net architecture, which
 The methodology involves training the model using a set of diverse textual prompts and leveraging the U-Net encoder-decoder architecture to refine the generated images. The Stable Diffusion model is fine-tuned using these inputs, and the resulting images are evaluated for quality, coherence, and relevance to the given prompts.
 Key results of the project demonstrate that the combination of Comfy UI, Stable Diffusion, and U-Net architecture significantly improves the accuracy and creativity of generated images. The system’s ability to generate realistic images based on a wide range of prompts highlights its potential for creative and practical applications in fields such as design, art, and entertainment.
 This project showcases the effectiveness of combining cutting-edge AI models and architectures in image generation, opening avenues for further advancements in text-to-image synthesis.
+image 
+![Image](https://github.com/user-attachments/assets/84d75159-d38d-4a0b-bea5-d28309de6f80)
