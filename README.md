@@ -6,3 +6,4 @@ Key results of the project demonstrate that the combination of Comfy UI, Stable 
 This project showcases the effectiveness of combining cutting-edge AI models and architectures in image generation, opening avenues for further advancements in text-to-image synthesis.
 image 
 ![Image](https://github.com/user-attachments/assets/84d75159-d38d-4a0b-bea5-d28309de6f80)
+![Image](https://github.com/user-attachments/assets/bb737055-0686-4846-9058-45cbaea392ca)
